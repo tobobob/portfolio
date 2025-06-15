@@ -47,5 +47,9 @@ Loading screen based around JJBA, somewhat inspired by RIU
 # Contact Me
 
 Roblox: [phoontg](https://www.roblox.com/users/1249575961/profile)
+
 Devforum: [phoontg](https://devforum.roblox.com/u/phoontg/)
+
 Discord: phoon1
+
+I am open to any inquiries!
