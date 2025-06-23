@@ -55,7 +55,7 @@ Voting and intermission menu created specifically for battle/match games
 - Supports parts and coordinates as spawn locations
 - Optional reload on spawn
 
-[Video Link]([https://medal.tv/games/roblox/clips/kuXCfMAoAbwXIAOmS?invite=cr-MSxqeHosMjYyNzIyMDkz](https://medal.tv/games/roblox/clips/kyhIl1oUcm4dElkuf?invite=cr-MSxQMUEsNDExNjEyMzg1))
+[Video Link](https://medal.tv/games/roblox/clips/kyhIl1oUcm4dElkuf?invite=cr-MSxQMUEsNDExNjEyMzg1)
 
 --
 
