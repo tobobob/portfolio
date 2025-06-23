@@ -39,8 +39,23 @@ Loading screen based around JJBA, somewhat inspired by RIU
 - Easily customizable
 - Modular styled to ease adding features in the future
 - Optional custom asset preloader with batch loading to avoid spikes
+- Spawn forcefield compatibility to prevent spawnkilling
 
 [Video Link](https://medal.tv/games/roblox/clips/kuXCfMAoAbwXIAOmS?invite=cr-MSxqeHosMjYyNzIyMDkz)
+
+--
+
+**Voting and Intermission Menu**
+Voting and intermission menu created specifically for battle/match games
+
+- Custom commands for starting and ending: %v, %vstop
+- Player/admin only support (by userid, group, or rank)
+- Well organised and structured for battle games
+- Designated pads for each team, on each location
+- Supports parts and coordinates as spawn locations
+- Optional reload on spawn
+
+[Video Link]([https://medal.tv/games/roblox/clips/kuXCfMAoAbwXIAOmS?invite=cr-MSxqeHosMjYyNzIyMDkz](https://medal.tv/games/roblox/clips/kyhIl1oUcm4dElkuf?invite=cr-MSxQMUEsNDExNjEyMzg1))
 
 --
 
@@ -49,6 +64,9 @@ Simple transportation system to transport you to different places around the map
 
 - Older system
 - Well customizable and tweened
+- Easily customizable locations
+- Multiple locations supported
+- Optional discord webhook compatibility
 
 [Video Link](https://medal.tv/games/roblox/clips/kuZ1PvHMwzZp2Gp6B?invite=cr-MSx2U24sNDExNjEyMzg1)
 
