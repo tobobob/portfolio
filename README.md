@@ -1,9 +1,8 @@
-!!! REVAMP DISCONTINUED
-- USAR DEVELOPER
-
 # Introduction
 
 Hey, I'm a 17 year old self-taught programmer, I've been programming for roughly 2 years now and have developed numerous systems. I'm friendly, active, a quick learner, and extremely flexible when it comes to work schedules. If you wish to contact me you can add me on discord and I will make sure to answer you as soon as I can!
+
+!!! The following links may have some videos which have been deleted/expired, expect a revamp soon
 
 # Why hire me?
 
