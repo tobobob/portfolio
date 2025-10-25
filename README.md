@@ -2,8 +2,6 @@
 
 Hey, I'm a 17 year old self-taught programmer, I've been programming for roughly 2 years now and have developed numerous systems. I'm friendly, active, a quick learner, and extremely flexible when it comes to work schedules. If you wish to contact me you can add me on discord and I will make sure to answer you as soon as I can!
 
-!!! The following links may have some videos which have been deleted/expired, expect a revamp soon
-
 # Why hire me?
 
 I'm a hard worker who always works to land on time. I work with extreme precision, and try to match the games code style, whilst taking into account future expandibility for the system/script I'm working on. I excel in working with different people, and can quickly accomodate myself to larger working environments
