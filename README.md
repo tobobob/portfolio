@@ -52,7 +52,7 @@ Menu screen inspired off of Deepwoken
 - Server display alongside finder by id
 - ProfileStore data integration
 
-- [Video Link](https://medal.tv/games/roblox-studio/clips/m5MqV6Snko3s06IEz?invite=cr-MSx5VjMsNDExNjEyMzg1&v=53)
+[Video Link](https://medal.tv/games/roblox-studio/clips/m5MqV6Snko3s06IEz?invite=cr-MSx5VjMsNDExNjEyMzg1&v=53)
 
 --
 
