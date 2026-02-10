@@ -48,16 +48,31 @@ Menu screen inspired off of Deepwoken
 - Loading screen alongside conditional checks
 - Menu screen with tweened button options
 - Slot and character customization system for new players
+  > *Moved to the main game as part of a QoL change!*
 - Server display alongside finder by id
 - ProfileStore data integration
 
-- [VIDEO LINK SOON]
+- [Video Link](https://medal.tv/games/roblox-studio/clips/m5MqV6Snko3s06IEz?invite=cr-MSx5VjMsNDExNjEyMzg1&v=53)
+
+--
+
+**Weapons Vendor**
+
+- Completely modular
+- Vanilla with no external dependencies
+- Easily integratable - as simple as a drag & drop!
+- ProfileStore data integration alongside with data-loss prevention
+- Sleek, clean, and responsible UI with nicely tweened selection
+- Easily expandable weapons/items table, with fields for price, description and icon
+- Robux and Cash purchase option - universal or singular specified devproduct for each weapon
+
+- [Video Link](https://medal.tv/games/roblox-studio/clips/m5MsSBccWXXYnCyM2?invite=cr-MSxBWmssNDExNjEyMzg1&v=20)
 
 --
 
 **Locker System**
 A system that fits all of your characters needs!
-!!! This UI is not mine, only the code is
+!!! The UI shown is not mine, only the code is
 
 - Numerous selection options
 - Easily customizable and expandable
@@ -66,7 +81,7 @@ A system that fits all of your characters needs!
 - Hair colour and skintone option
 - Rank and prefix display
 
-[Video Link](https://medal.tv/games/roblox-studio/clips/lnhbK1zqr-lguVV2_?invite=cr-MSx3SUcsNDExNjEyMzg1)
+[Video Link](https://medal.tv/games/roblox-studio/clips/lnhbK1zqr-lguVV2_?invite=cr-MSxVdTMsNDExNjEyMzg1&v=28)
 
 --
 
@@ -78,7 +93,7 @@ Loading screen based around JJBA, somewhat inspired by RIU
 - Optional custom asset preloader with batch loading to avoid spikes
 - Spawn forcefield compatibility to prevent spawnkilling
 
-[Video Link](https://medal.tv/games/roblox/clips/kuXCfMAoAbwXIAOmS?invite=cr-MSxqeHosMjYyNzIyMDkz)
+[Video Link](https://medal.tv/games/roblox-studio/clips/m5MnZrB0FR_YDK5mT?invite=cr-MSw5Z04sNDExNjEyMzg1&v=13)
 
 --
 
@@ -92,7 +107,7 @@ Voting and intermission menu created specifically for battle/match games
 - Supports parts and coordinates as spawn locations
 - Optional reload on spawn
 
-[Video Link](https://medal.tv/games/roblox-studio/clips/lnh67s9StxGxIi2ki?invite=cr-MSw3a2QsNDExNjEyMzg1)
+[Video Link](https://medal.tv/games/roblox-studio/clips/lnh67s9StxGxIi2ki?invite=cr-MSw5bnIsNDExNjEyMzg1&v=50)
 
 --
 
@@ -105,7 +120,7 @@ Simple transportation system to transport you to different places around the map
 - Multiple locations supported
 - Optional discord webhook compatibility
 
-[Video Link](https://medal.tv/games/roblox/clips/kuZ1PvHMwzZp2Gp6B?invite=cr-MSx2U24sNDExNjEyMzg1)
+[Video Link](https://medal.tv/games/roblox/clips/kuZ1PvHMwzZp2Gp6B?invite=cr-MSxiR2EsNDExNjEyMzg1&v=0)
 
 --
 
@@ -115,6 +130,6 @@ Roblox: [phoontg](https://www.roblox.com/users/1249575961/profile)
 
 Devforum: [phoontg](https://devforum.roblox.com/u/phoontg/)
 
-Discord: phoon1
+Discord: **bbellick**, formerly phoon1
 
 I am open to any inquiries!
