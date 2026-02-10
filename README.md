@@ -66,7 +66,7 @@ Menu screen inspired off of Deepwoken
 - Easily expandable weapons/items table, with fields for price, description and icon
 - Robux and Cash purchase option - universal or singular specified devproduct for each weapon
 
-- [Video Link](https://medal.tv/games/roblox-studio/clips/m5MsSBccWXXYnCyM2?invite=cr-MSxBWmssNDExNjEyMzg1&v=20)
+[Video Link](https://medal.tv/games/roblox-studio/clips/m5MsSBccWXXYnCyM2?invite=cr-MSxBWmssNDExNjEyMzg1&v=20)
 
 --
 
