@@ -41,6 +41,27 @@ An indepth and complex security script which scans through a selected list of sc
 
 --
 
+**Roguelike Menu v2**
+
+- Fully customisable settings
+  > *Cutscene duration; should end with a __marker__ or manually?*
+  > *__OST/Background__ music enabled or disabled; field for it*
+  > *Capped slots or unlimited per player? (default __6__)*
+  > *__ProductId__ or __Gamepass__ for one time slot purchasing*
+- Preload screen with conditional checks
+- Numerous quality safeguards
+- Cutscene integration with animation marker support
+- Main Menu with satisfying, sleek tweens
+- Slot Purchasing with capped/uncapped slots per player, customisable
+- Slot Creation and upkeep with multiple fields of data exchange
+  > *Actual slot creation happens in the main game*
+- Credits display for Contributors, Developers and people of notice
+- Full ProfileStore data integration
+
+[Video Link](https://medal.tv/games/imported-clips/clips/nw9yvGM7wdqZj0wNL?invite=cr-MSwzTnUsNDExNjEyMzg1)
+
+--
+
 **Roguelike Menu**
 Menu screen inspired off of Deepwoken
 
@@ -49,6 +70,7 @@ Menu screen inspired off of Deepwoken
 - Menu screen with tweened button options
 - Slot and character customization system for new players
   > *Moved to the main game as part of a QoL change!*
+- Credits display for Contributors, Developers and people of notice
 - Server display alongside finder by id
 - ProfileStore data integration
 
